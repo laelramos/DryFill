@@ -82,5 +82,5 @@ Foto do projeto montado
 Print do display OLED
 
 🧑‍💻 Autor
-Projeto criado por [Seu Nome Aqui]
+Projeto criado por Lael Ramos.
 Se curtir ou usar esse projeto, sinta-se à vontade para dar uma estrela ⭐ ou contribuir!
